@@ -8,7 +8,7 @@ export default function Events() {
       time: "6:00 PM - 8:00 PM",
       title: "AI Safety Workshop: Building Robust Language Models",
       location: "Bahen Centre, Room 1180",
-      description: "Join us for an interactive workshop on developing safer and more reliable large language models. We'll cover alignment techniques, red teaming, and evaluation frameworks.",
+      description: "Join us for an interactive workshop on developing safer and more reliable large language models. We&apos;ll cover alignment techniques, red teaming, and evaluation frameworks.",
       type: "Workshop",
       spots: "15 spots remaining"
     },
@@ -92,7 +92,7 @@ export default function Events() {
               Upcoming Events
             </h2>
             <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              Don't miss these upcoming opportunities to learn, connect, and contribute to trustworthy AI research
+              Don&apos;t miss these upcoming opportunities to learn, connect, and contribute to trustworthy AI research
             </p>
           </div>
 
@@ -183,7 +183,7 @@ export default function Events() {
               Past Events
             </h2>
             <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              Check out what we've been up to and access materials from previous events
+              Check out what we&apos;ve been up to and access materials from previous events
             </p>
           </div>
 
@@ -238,7 +238,7 @@ export default function Events() {
             Want to Organize an Event?
           </h2>
           <p className="text-xl text-purple-100 mb-8 leading-relaxed">
-            Have an idea for a workshop, seminar, or discussion? We'd love to help you bring it to life!
+            Have an idea for a workshop, seminar, or discussion? We&apos;d love to help you bring it to life!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

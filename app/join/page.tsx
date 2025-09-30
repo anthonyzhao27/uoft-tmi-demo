@@ -36,7 +36,7 @@ export default function Join() {
             </h2>
             
             <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-              We're currently building our membership application system. In the meantime, connect with us through other channels to stay updated on opportunities to join our community.
+              We&apos;re currently building our membership application system. In the meantime, connect with us through other channels to stay updated on opportunities to join our community.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">

@@ -150,7 +150,7 @@ export default function Research() {
               Current Research
             </h2>
             <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              Our ongoing projects are addressing today's most pressing challenges in trustworthy AI
+              Our ongoing projects are addressing today&apos;s most pressing challenges in trustworthy AI
             </p>
           </div>
 

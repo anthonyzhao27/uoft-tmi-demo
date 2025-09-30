@@ -268,7 +268,7 @@ export default function Team() {
             Ready to Join Our Team?
           </h2>
           <p className="text-xl text-blue-100 mb-8 leading-relaxed">
-            We're always looking for passionate individuals who share our commitment to trustworthy AI. Whether you're a student, researcher, or industry professional, there's a place for you in our community.
+            We&apos;re always looking for passionate individuals who share our commitment to trustworthy AI. Whether you&apos;re a student, researcher, or industry professional, there&apos;s a place for you in our community.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
